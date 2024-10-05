@@ -13,3 +13,11 @@ The air conditioner can operate in the following four modes: "freeze" - cooling.
 The air conditioner is sunny enough, so when setting the appropriate operating mode, it brings the room temperature to the desired one in a certain time.
 
 It is required to write a program that sets the desired temperature in the room, the desired temperature tcond set on the air conditioner, and the operating mode that determines the temperature that is set in the room after an hour.
+
+## Input format
+The first line of the input file contains two integers troom, and tcond, separated by exactly one space (–50 ≤ troom ≤ 50, –50 ≤ tcond ≤ 50).
+
+The second line contains one word written in lowercase Latin letters — the air conditioner operating mode.
+
+## Output format
+The output file must contain one integer — the temperature that will be established in the room in an hour.
