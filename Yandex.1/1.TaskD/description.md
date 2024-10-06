@@ -2,7 +2,7 @@
 
 Solve the equation in integers:
 
-$\sqrt{a*x+b}=$
+$\sqrt{ax+b}=c$
 
 a, b, c are these integers: find all solutions or report that there are no solutions in integers.
 
