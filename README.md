@@ -5,3 +5,6 @@
 
 ## Yandex.1
 Thats basic exercises, but sometimes its a little bit tricky, and you will spend some hours for finding the right way(like TaskE) 
+
+## Yandex.2
+Basic tasks for working with lists, sorting data, etc.
