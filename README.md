@@ -11,3 +11,6 @@ Basic tasks for working with lists, sorting data, etc.
 
 ## Yandex.3
 Getting started with sets
+
+## Yandex.4
+Most important exercises. Start working with dictionaries and first task in OOP style
