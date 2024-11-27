@@ -14,3 +14,6 @@ Getting started with sets
 
 ## Yandex.4
 Most important exercises. Start working with dictionaries and first task in OOP style
+
+## Yandex.5
+Important tasks on working with prefix sum and two pointers
