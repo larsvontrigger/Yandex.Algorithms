@@ -17,3 +17,6 @@ Most important exercises. Start working with dictionaries and first task in OOP 
 
 ## Yandex.5
 Important tasks on working with prefix sum and two pointers
+
+## Yandex.6
+Things are getting serious.. Working with binary search and two pointers method.
